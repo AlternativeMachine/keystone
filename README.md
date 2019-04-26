@@ -1,6 +1,6 @@
 # Concept of Keystone Species in Web Systems: Identifying Small Yet Influential Online Bulletin Board Threads
 
-This is the data we used in the Ejima, Oka and Ikegami 2019 paper in *proceedings of 11th ACM Conference on Web Science (WebSci '19)*. The paper is [here](https://doi.org/10.1145/3292522.3326023).
+This is the data we use in the Ejima, Oka and Ikegami 2019 paper in *proceedings of 11th ACM Conference on Web Science (WebSci '19)*. The paper is [here](https://doi.org/10.1145/3292522.3326023).
 
 ## Abstract 
 Research is being conducted to understand social and innovative behavior in human interactions on the Web as a biological ecosystem.
