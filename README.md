@@ -1,6 +1,6 @@
 # Concept of Keystone Species in Web Systems: Identifying Small Yet Influential Online Bulletin Board Threads
 
-This is the data we used in the Ejima, Oka and Ikegami 2019 paper in *proceedings of the Websci'19: 11th International ACM Web Science Conference.* The paper is [here](https://doi.org/10.1145/3292522.3326023)
+This is the data we used in the Ejima, Oka and Ikegami 2019 paper in *proceedings of the Websci'19: 11th International ACM Web Science Conference.* The paper is [here](https://doi.org/10.1145/3292522.3326023).
 
 ## Abstract 
 Research is being conducted to understand social and innovative behavior in human interactions on the Web as a biological ecosystem.
@@ -23,12 +23,9 @@ Each community has threads and users enjoy to communicate with other users by co
 
 The types of event occurrence are the following:
 
-* accesses
-the datetime of user access to the thread
-* comments
-the datetime of user comment to the thread
-* claps
-the datetime of user clap to other user's comment
+* accesses: the datetime of user access to the thread
+* comments: the datetime of user comment to the thread
+* claps: the datetime of user clap to other user's comment
 
 We collectively use these three types of event occurrences.
 
