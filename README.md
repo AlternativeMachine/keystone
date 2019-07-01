@@ -6,7 +6,7 @@ This is the data we used in the Ejima, Oka and Ikegami 2019 paper in the *procee
 Research is being conducted to understand social and innovative behavior in human interactions on the Web as a biological ecosystem.
 Keystone species in a biological ecosystem are defined as a set of species that significantly impacts the ecosystem if they are removed from the system, irrespective of its small biomass. Identifying keystone species is an important problem as they play an important role in maintaining diversity and stability in ecosystems.
 A human community in the web system also possesses keystone species. They can be influential users or contents on the web systems, even though their commitments to the web are relatively small. 
-We use data from an online bulletin board, and identify key- stone threads (= "species") that have a large impact if they are removed or become unpopular, despite their small population size.
+We use data from an online bulletin board, and identify kestone threads (= "species") that have a large impact if they are removed or become unpopular, despite their small population size.
 Here, the removal of threads can be regarded as a state in which there is no attention or actions by users on the thread. 
 The multivariate Hawkes process is used to measure the degree of influence among all threads and calculate the overall activity level on the online bulletin board. 
 Our analysis confirms that keystone threads do exist in the system.
